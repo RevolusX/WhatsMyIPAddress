@@ -1,0 +1,9 @@
+c:\users\teemu\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\bin\Debug\WhatsMyIP.exe.config
+c:\users\teemu\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\bin\Debug\WhatsMyIP.exe
+c:\users\teemu\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\bin\Debug\WhatsMyIP.pdb
+c:\users\teemu\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Debug\WhatsMyIP.csprojResolveAssemblyReference.cache
+c:\users\teemu\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Debug\WhatsMyIP.Properties.Resources.resources
+c:\users\teemu\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Debug\WhatsMyIP.csproj.GenerateResource.Cache
+c:\users\teemu\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Debug\WhatsMyIP.exe
+c:\users\teemu\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Debug\WhatsMyIP.pdb
+c:\users\teemu\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Debug\WhatsMyIP.Main.resources
